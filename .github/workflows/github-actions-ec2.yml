@@ -8,7 +8,7 @@ on:
 
 jobs:
   deploy:
-    name: Deploy to EC2 on master branch 
+    name: Deploy to azure on master branch 
     runs-on: ubuntu-latest
 
     steps:
